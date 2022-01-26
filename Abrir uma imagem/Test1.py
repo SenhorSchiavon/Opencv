@@ -1,6 +1,6 @@
 import cv2  # importa tudo
 
-imagem = "Imagens\download.jfif"
+imagem = "download.jfif"
 
 image = cv2.imread(imagem)
 cv2.imshow('Imagem', image)
