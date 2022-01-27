@@ -1,4 +1,4 @@
-import cv2  # importa tudo
+import cv2  # importa toda a biblioteca cv2
 
 imagem = "download.jfif"
 
